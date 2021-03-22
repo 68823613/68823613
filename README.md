@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ZYSama
-- 👀 I’m interested in PQC, security
+- 👀 I’m interested in PQC
 - 🌱 I’m currently learning data security
 - 📫 How to reach me: 68823613@qq.com
 
